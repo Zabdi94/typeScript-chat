@@ -4,7 +4,7 @@
 
 Chat Room is a simple web application that allows users to communicate with each other in real-time. It provides a chat interface where users can send and receive messages.
 
-Throwback to jquery, reasons why i didnt use react were so I can have a little refresh of jQuery and basic HTML.
+Throwback to jquery, reasons why I didnt use react were so I can have a little refresh of jQuery and basic HTML.
 
 ## Features
 
