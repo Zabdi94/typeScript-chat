@@ -21,7 +21,9 @@ Throwback to jquery, reasons why i didnt use react were so I can have a little r
 - Express.js
 - Socket.IO
 
-## Getting Started
+## Image of Application
+
+<img width="1439" alt="Screen Shot 2023-05-15 at 12 59 59 PM" src="https://github.com/Zabdi94/typeScript-chat/assets/113937204/19ba7973-db7c-4cb9-932e-7837e4631b44">
 
 ### Prerequisites
 
