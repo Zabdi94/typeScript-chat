@@ -37,9 +37,18 @@
               <textarea class="form-control" id="message"></textarea>
             </div></br>
             <input type="submit" class="btn btn-primary" value="send message"/>
+                 </div>
           </form>
         </div>
       </div>
     </div>
+    <script>
+        $(function(){
+            var socket=io.connect();
+            var $messageForm=$('#messageForm');
+            
+
+        })
+    </script>
   </body>
 </html>
